@@ -1,6 +1,6 @@
 /*
 	Name: TP#1 -Tipo de Datos-
-	Course: k1091
+	Course: K1091
 	Author: Ivan Heimsath
 	Date: 23/04/15 02:41
 
