@@ -1,0 +1,37 @@
+-----EJEMPLO BOOLEANO-----
+El valor A es: 3
+El valor de B es: 5
+A es Mayor a B?
+El resultado es: false
+Si Fuese al Contrario?: true
+
+
+-----EJEMPLO VARIABLES CHAR-----
+La Primera Letra es: a
+La segunda letra es: b
+La Primer letra (a) es distinta a (b)
+La segunda letra es (b) igual a (b)
+
+
+-----EJEMPLO INT-----
+El Primer numero de ejemplo es: 2
+El Segundo numero de ejemplo es: 2
+La Suma es: 4
+La Resta es: 0
+La Multiplicacion es: 4
+La Division es: 1
+
+
+-----EJEMPLO DOUBLE-----
+El Primer numero de ejemplo es: 2.6
+El Segundo numero de ejemplo es: 5.3
+La Suma es: 7.9
+La Resta es: -2.7
+La Multiplicacion es: 13.78
+La Division es: 0.490566
+
+
+-----EJEMPLO STRING-----
+La primer Palabra ingresada es: Hola
+La segunda Palabra ingresada es: Chau
+La cantidad de caracteres de la primer palabra (Hola) es igual a la de la segunda palabra (Chau)
